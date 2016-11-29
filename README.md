@@ -18,7 +18,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/Flores120/ember_practice` this repository
+* `git clone https://github.com/Tamothy/ember_practice` this repository
 * `cd ember_practice`
 * `npm install`
 * `bower install`
